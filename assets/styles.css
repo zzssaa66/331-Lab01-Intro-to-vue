@@ -180,3 +180,8 @@ ul {
     width: 90%;
   }
 }
+
+.out-of-stock-image {
+  opacity: 0.5;
+  filter: grayscale(100%);
+}
